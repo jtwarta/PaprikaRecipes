@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'recipes/*.json'
+      - 'recipes/delete/*.json'
 
 permissions:
   contents: write
