@@ -1,0 +1,11 @@
+{
+  "name": "Test Recipe - Pipeline Verification",
+  "ingredients": "1 cup success\n2 tbsp automation\n1 pinch patience",
+  "directions": "Step 1: Push this file to GitHub.\nStep 2: Watch the Action run.\nStep 3: Check Paprika app for this recipe.\nStep 4: Delete this recipe from Paprika once confirmed.",
+  "servings": "1 successful test",
+  "prep_time": "1 min",
+  "cook_time": "2 min",
+  "source": "Claude Pipeline Test",
+  "notes": "If you see this in Paprika, the pipeline works! Safe to delete.",
+  "rating": 5
+}
