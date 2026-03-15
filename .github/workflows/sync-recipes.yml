@@ -5,6 +5,9 @@ on:
     paths:
       - 'recipes/*.json'
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
